@@ -3,3 +3,4 @@
 
 > # NodeJs
 >> [NodeJs基础(1)--NodeJs介绍](https://github.com/laoxiehhh/laoxiea/issues/1)
+>> [NodeJs基础(2)--模块系统](https://github.com/laoxiehhh/laoxiea/issues/2)
