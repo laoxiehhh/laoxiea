@@ -6,4 +6,6 @@
 
 >> [NodeJs基础(2)--模块系统](https://github.com/laoxiehhh/laoxiea/issues/2)
 
->> [NodeJS基础(3)--Event Loop](https://github.com/laoxiehhh/laoxiea/issues/2)
+>> [NodeJS基础(3)--Event Loop](https://github.com/laoxiehhh/laoxiea/issues/3)
+
+>> [NodeJs基础(4)--event模块](https://github.com/laoxiehhh/laoxiea/issues/4)
