@@ -19,5 +19,5 @@
 > # webpack 相关内容
 >> [webpack3.x (1) 理解和安装](https://github.com/laoxiehhh/laoxiea/issues/9)
 
->> [webpack3.x (1) 配置文件和第一个插件](https://github.com/laoxiehhh/laoxiea/issues/10)
+>> [webpack3.x (2) 配置文件和第一个插件](https://github.com/laoxiehhh/laoxiea/issues/10)
 
