@@ -21,3 +21,15 @@
 
 >> [webpack3.x (2) 配置文件和第一个插件](https://github.com/laoxiehhh/laoxiea/issues/10)
 
+>> [webpack3.x (3) Loader](https://github.com/laoxiehhh/laoxiea/issues/11)
+
+>> [webpack3.x (4) 初识webpack-dev-server和babel配置react](https://github.com/laoxiehhh/laoxiea/issues/12)
+
+>> [webpack3.x (5) 配置多个html文件和模块热更新](https://github.com/laoxiehhh/laoxiea/issues/13)
+
+>> [webpack3.x (6) 打包图片和ProvidePlugin插件](https://github.com/laoxiehhh/laoxiea/issues/14)
+
+>> [webpack3.x (7) 生产环境和开发环境](https://github.com/laoxiehhh/laoxiea/issues/15)
+
+
+
