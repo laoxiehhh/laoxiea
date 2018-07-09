@@ -31,5 +31,8 @@
 
 >> [webpack3.x (7) 生产环境和开发环境](https://github.com/laoxiehhh/laoxiea/issues/15)
 
+> # 项目相关
+>> [基于react-imvc的手机端cnode](https://github.com/laoxiehhh/laoxiea/issues/16)
+
 
 
