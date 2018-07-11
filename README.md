@@ -34,5 +34,8 @@
 > # 项目相关
 >> [基于react-imvc的手机端cnode](https://github.com/laoxiehhh/laoxiea/issues/16)
 
+> # js基础
+>> [js基础(1) - 数据类型相关](https://github.com/laoxiehhh/laoxiea/issues/17)
+
 
 
