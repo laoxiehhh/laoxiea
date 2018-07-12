@@ -37,5 +37,6 @@
 > # js基础
 >> [js基础(1) - 数据类型相关](https://github.com/laoxiehhh/laoxiea/issues/17)
 
-
+> # 实习
+>> [react高阶组件-多行文本溢出打点](https://github.com/laoxiehhh/laoxiea/issues/18)
 
