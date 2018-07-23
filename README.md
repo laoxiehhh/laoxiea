@@ -36,6 +36,10 @@
 
 > # js基础
 >> [js基础(1) - 数据类型相关](https://github.com/laoxiehhh/laoxiea/issues/17)
+>> [js基础(2) - new、instanceof的模拟实现](https://github.com/laoxiehhh/laoxiea/issues/19)
+>> [js基础(3) - this、预编译、闭包](https://github.com/laoxiehhh/laoxiea/issues/20)
+>> [js基础(4) - call、apply、bind](https://github.com/laoxiehhh/laoxiea/issues/21)
+>> [js基础(5) - 深浅拷贝](https://github.com/laoxiehhh/laoxiea/issues/22)
 
 > # 实习
 >> [react高阶组件-多行文本溢出打点](https://github.com/laoxiehhh/laoxiea/issues/18)
